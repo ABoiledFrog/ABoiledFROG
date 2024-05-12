@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ABoiledFrog&data=followers,repositories,stars,commits&theme=dark_magic_girl)
 
-<iframe src="http://tylerlh.github.com/github-latest-commits-widget/?username=ABoiledFrog&repo=REPO&limit=LIMIT"
-  allowtransparency="true" frameborder="0" scrolling="no" width="502px" height="252px"></iframe>
+<img src="https://myreadme.vercel.app/api/embed/ABoiledFrog?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
